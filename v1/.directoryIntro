@@ -1,0 +1,11 @@
+Welcome to the "v1" directory! In this directory, we will explore convolutional neural network (CNN) architecture and its implementation.
+
+CNNs are a type of deep neural network that are commonly used in computer vision tasks, such as image classification, object detection, and segmentation. The basic building block of a CNN is the convolutional layer, which applies a set of learnable filters to the input image to extract features at different spatial scales.
+
+To train a CNN, we typically use a variant of stochastic gradient descent (SGD) algorithm called backpropagation. During training, we feed the CNN with a set of input images and their corresponding labels, and adjust the network parameters (i.e., filter weights and biases) to minimize the prediction error.
+
+To evaluate the performance of a CNN, we typically use a separate set of images (i.e., validation set or test set) that are not seen during training. We measure the prediction accuracy on these images to assess how well the CNN generalizes to new data.
+
+In this directory, we will provide examples of how to implement and train a CNN using popular deep learning frameworks such as TensorFlow and Keras. We will also demonstrate how to visualize the learned filters and feature maps to gain insights into how the CNN processes images.
+
+So, if you are interested in learning about CNNs and their application in computer vision, you are in the right place! Let's dive in and explore the exciting world of CNNs.
