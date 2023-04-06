@@ -11,7 +11,7 @@ This repository contains materials related to convolutional neural networks (CNN
 ## Physical Environment
 * Python virtual environment
 * Neptune account creation
-* Dataset **(sample)** **(official)**
+* Dataset **(sample)** **[official](https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification)**
 * arial.ttf **(font file)**
 
 ## Convolution Neural Network Theory
