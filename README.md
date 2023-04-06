@@ -12,7 +12,7 @@ This repository contains materials related to convolutional neural networks (CNN
 * Python virtual environment
 * Neptune account creation
 * Dataset **[sample](https://github.com/yagnikposhiya/Deep-Learning/tree/main/v1/_data_)** **[official](https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification)**
-* arial.ttf **(font file)**
+* arial.ttf **[font file](https://github.com/yagnikposhiya/Deep-Learning/tree/main/v1/_font_)**
 
 ## Convolution Neural Network Theory
 Convolution neural network fundamentals are covered in this section. These include biological neurons, artificial neurons, the convolution and max pooling operation, stride, and padding. **Below are illustrations of biological neuron, artificial neuron, and convolution neural network.**
